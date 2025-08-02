@@ -8,13 +8,13 @@ Este proyecto corresponde a la Tarea 2 del curso de Procesamiento de Lenguaje Na
 
 ## Estructura del Proyecto
 
-📁 mineria_de_texto_NLP/  
-├── notebooks/   
-│ └── tarea2_camilo_rivera.ipynb # Código comentado en Jupyter Notebook    
-├── data/  
-│ └── ecqq.csv # Dataset `El Chile que Queremos`   
-├── requeriments.txt   
-└── README.md    
+📁 mineria_de_texto_NLP/<br>
+├── notebooks/<br>
+│ └── tarea2_camilo_rivera.ipynb # Código comentado en Jupyter Notebook<br>
+├── data/<br>
+│ └── ecqq.csv # Dataset `El Chile que Queremos`<br>
+├── requeriments.txt<br>
+└── README.md<br>
 
 ## Tecnologías Utilizadas
 
