@@ -1,0 +1,32 @@
+# Ignorar datasets locales
+data/
+
+# Ignorar archivos de Word
+*.docx
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar archivos de entorno virtual
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Ignorar archivos de Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
