@@ -1,7 +1,7 @@
 
 # Comparación de Topic Modeling (LDA) y Clustering (KMeans)
 
-## Descripción
+## Descripción 
 
 Este proyecto corresponde a la Tarea 2 del curso de Procesamiento de Lenguaje Natural, cuyo objetivo es comparar la aplicación de técnicas de **Topic Modeling (LDA)** y **Clustering (KMeans)** sobre un subset del dataset **"El Chile que Queremos"**. Se busca explorar cómo la incorporación de **bigramas** en el análisis puede mejorar la interpretación de tópicos, y contrastar la agrupación temática obtenida con LDA frente a la segmentación estructural de KMeans.
 
@@ -9,12 +9,12 @@ Este proyecto corresponde a la Tarea 2 del curso de Procesamiento de Lenguaje Na
 ## Estructura del Proyecto
 
 📁 mineria_de_texto_NLP/  
-├── notebooks/ 
-│ └── tarea2_camilo_rivera.ipynb # Código comentado en Jupyter Notebook  
+├── notebooks/   
+│ └── tarea2_camilo_rivera.ipynb # Código comentado en Jupyter Notebook    
 ├── data/  
-│ └── ecqq.csv # Dataset `El Chile que Queremos` 
-├── requeriments.txt 
-└── README.md  
+│ └── ecqq.csv # Dataset `El Chile que Queremos`   
+├── requeriments.txt   
+└── README.md    
 
 ## Tecnologías Utilizadas
 
